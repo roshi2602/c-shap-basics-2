@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\bin\Debug\c shap basics3.exe.config
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\bin\Debug\c shap basics3.exe
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\bin\Debug\c shap basics3.pdb
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\obj\Debug\c shap basics3.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\obj\Debug\c shap basics3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\obj\Debug\c shap basics3.exe
+C:\Users\lenovo\source\repos\c shap basics3\c shap basics3\obj\Debug\c shap basics3.pdb
